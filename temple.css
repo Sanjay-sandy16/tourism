@@ -1,0 +1,91 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+h1
+{
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: rgb(228, 72, 72);
+    color: white;
+}
+h4
+{
+    margin: 20px;
+    color: maroon;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    font-weight: lighter;
+}
+.row1 img
+{
+    width: 500px;
+    height: 300px;
+    margin-left: 30px;
+}
+img, p
+{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    position: absolute;
+}
+p{
+    margin-left: 45%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(87, 86, 86);
+}
+.row2
+{
+    margin-top:25%;
+}
+.row2 img
+{
+    width: 500px;
+    height: 300px;
+    margin-left: 30px;
+}
+
+.row3
+{
+    margin-top:25%;
+}
+.row3 img
+{
+    width: 500px;
+    height: 300px;
+    margin-left: 30px;
+}
+.row4
+{
+    margin-top:25%;
+}
+.row4 img
+{
+    width: 500px;
+    height: 300px;
+    margin-left: 30px;
+}
+.row4 p{
+    margin-top: 45px;
+}
+.row5
+{
+    margin-top:25%;
+}
+.row5 img
+{
+    width: 500px;
+    height: 300px;
+    margin-left: 30px;
+}
+.row5 p
+{
+    margin-top: 15px;
+}
+.but
+{
+    margin-bottom: 0;
+}
